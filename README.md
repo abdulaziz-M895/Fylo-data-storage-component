@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component solution
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Take a look](https://www.frontendmentor.io/solutions/fylo-data-storage-component-using-flexbox-6iu5foEOBA)
+- Live Site URL: [Take a look](https://abdulaziz-m895.github.io/Fylo-data-storage-component/)
 
 ## My process
 
@@ -30,5 +30,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@abdulaziz-M895](https://www.frontendmentor.io/profile/abdulaziz-M895)
+- LinkedIn - [@abdulaziz-omran](https://www.linkedin.com/in/abdulaziz-omran/)
